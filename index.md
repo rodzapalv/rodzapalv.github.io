@@ -1,5 +1,5 @@
 ---
-title: Home mia
-layout: home
+title: Home 
+layout: homesi
 ---
 
