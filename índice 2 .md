@@ -16,6 +16,9 @@ Por ejemplo una escapada a la playa con paseos en kayak y cenas en restaurantes 
 Descripción: Experiencias centradas en la comida, que incluyan clases de cocina, tours por mercados locales y cenas en restaurantes destacados.
 Por ejemplo un tour por las bodegas de un viñedo, con degustación de vinos y tapas.
 
+![image](https://github.com/user-attachments/assets/abbb97ef-e7bd-4307-bf0b-425e01ce4d68)
+
+
 **3. Aventuras al Aire Libre**
 
 Descripción: Para los amantes de la naturaleza y la adrenalina, organiza actividades como senderismo, rafting, escalada o ciclismo.
