@@ -1,5 +1,5 @@
 ---
-title: Home 
-layout: home
+title: Agencia de viajes 
+layout: Agencia de viajes
 ---
 
