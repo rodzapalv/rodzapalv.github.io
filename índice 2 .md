@@ -8,6 +8,7 @@ layout: home
 Descripción: Ofrece paquetes de 2-3 días a destinos cercanos, ideales para desconectar. Incluye alojamiento, transporte y actividades locales.
 Por ejemplo una escapada a la playa con paseos en kayak y cenas en restaurantes locales.
 
+<img src="https://github.com/user-attachments/assets/6f3fe964-d76d-4d84-a4c7-c54afb9f81bb" width="100">
 ![image](https://github.com/user-attachments/assets/6f3fe964-d76d-4d84-a4c7-c54afb9f81bb)
 
 
