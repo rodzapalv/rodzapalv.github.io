@@ -1,2 +1,5 @@
 ---
+title: Experiencias 
+layout: home
+---
 
