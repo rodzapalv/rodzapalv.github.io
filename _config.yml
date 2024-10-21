@@ -1,4 +1,4 @@
-title " "
+title:
 logo: https://files.oaiusercontent.com/file-v1WogudzVu6iMJrqBMu2Kuu5?se=2024-10-21T10%3A57%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D7ef34b36-0e0e-4286-9a49-145fa6875c03.webp&sig=oNaolyyNpFw2Mn524vb6jRIy6v3GwRTHdT1lzVzHMNU%3D
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
