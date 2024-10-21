@@ -1,6 +1,7 @@
 ---
 title: Tarifas
 layout: home
+has_children: true
 ---
 **1. Paquetes Todo Incluido**
 Desde $999 USD por persona
