@@ -1,7 +1,7 @@
 ---
 title: Turista
 layout: home
-parent: índice3
+parent: Tarifas
 nav_order: 1
 ---
 **Vuelos Internacionales:**
